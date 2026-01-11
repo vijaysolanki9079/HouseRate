@@ -12,6 +12,10 @@ A major challenge in this dataset is the **high-cardinality categorical feature 
 
 ---
 
+![House Price Prediction UI Screenshot](image.png)
+
+
+
 ## 📊 Dataset
 - **Source:** Kaggle – Bengaluru House Price Dataset  
 - **Type:** Structured tabular data  
@@ -152,4 +156,5 @@ python -m streamlit run ui.py
 
 UI URL:  
 http://localhost:8501  
+
 
