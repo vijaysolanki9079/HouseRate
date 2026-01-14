@@ -107,7 +107,7 @@ User (Browser) → Streamlit UI (Frontend) → HTTP POST → FastAPI Backend →
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/house-rate-prediction.git
+git clone https://github.com/vijaysolanki9079/house-rate-prediction.git
 cd house-rate-prediction
 ```
 
@@ -156,5 +156,6 @@ python -m streamlit run ui.py
 
 UI URL:  
 http://localhost:8501  
+
 
 
